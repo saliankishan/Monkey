@@ -55,7 +55,7 @@ The application recognizes different hand gestures and displays the correspondin
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/hand-gesture-image-display.git
+git clone https://github.com/saliankishan/hand-gesture-image-display.git
 ```
 
 ### 2. Navigate to the project directory
